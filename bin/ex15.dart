@@ -1,5 +1,5 @@
 void main(){
-  //클래스
+  //클래스ㅇ
   //파라미터 맨 앞에 이름 반드시 작성
   PersonVo personVo = PersonVo(
       "정우성",
